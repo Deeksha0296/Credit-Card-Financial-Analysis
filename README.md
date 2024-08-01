@@ -7,6 +7,6 @@ Description :
  
 2) KPIs, metrics, well defined measures to build an interactive and effectual dashboard.
    
-3)Sales forecasting with time series, enabling stakeholders to monitor and analyze credit card operations effectively.
+3) Sales forecasting with time series, enabling stakeholders to monitor and analyze credit card operations effectively.
 
 Tools : SQL & Microsoft Power BI.
