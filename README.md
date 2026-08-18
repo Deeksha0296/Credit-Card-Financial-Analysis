@@ -1,4 +1,4 @@
-# Credit-Card-Financial-Analysis
+# Credit-Card-Financial-Analysis-SQL
 
 Objective : To give meaningful insights of businesses through credit card weekly dashboard that provide significant metrics, sales insights and trends. This project gives accurate sales trends to Stakeholders for informative decision-making.
 
